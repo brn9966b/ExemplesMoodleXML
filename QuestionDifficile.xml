@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<question type="pairmatching">
+	<name>
+		<text>Superbe démo Ariegeoise!</text>
+	</name>
+	<questiontext format="html">
+		<text>Quel est la capitale du monde?</text>
+	</questiontext>
+	<penalty>1</penalty>
+	<defaultgrade>1</defaultgrade>
+	<subquestion>
+		<text>Premiere reponse</text>
+		<answer>
+			<text>Le pays d'Olmes</text>
+		</answer>
+	</subquestion>
+	<subquestion>
+		<text>Seconde Réponse</text>
+		<answer>
+			<text>Le Pays d'Olmes</text>
+		</answer>
+	</subquestion>
+	<shuffleanswers>true</shuffleanswers>
+</question>
