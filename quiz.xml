@@ -27,7 +27,7 @@
 			<text>Ooops!</text>
 		</feedback>
 	</answer>
-	<shuffleanswers>1</shuffleanswers>
+	<shuffleanswers>1</shuffleaswers>
 	<single>true</single>
 </question>
 <question type="pairmatching">
